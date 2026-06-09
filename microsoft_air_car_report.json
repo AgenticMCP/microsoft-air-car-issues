@@ -1,0 +1,1 @@
+{ "$s1.items[0].name": $s2.total_count, "$s1.items[1].name": $s3.total_count, "$s1.items[2].name": $s4.total_count }
